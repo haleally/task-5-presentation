@@ -17,7 +17,7 @@ A quick summary of my internship at the Southeast Regional Climate Center
 * STATA
 
 ## Slide 4
-## Results
+### Results
 * Loose correlation so far
 * Will run more tests at the Research Hub
 * Expecting a positive correlation
