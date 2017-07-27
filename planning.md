@@ -2,32 +2,35 @@
 % Haley Moser
 % 31 July 2017
 
-<section>
-#Do High Heat Index Values Relate to Preterm Birth? - Yes
-A quick summary of my internship at the Southeast Regional Climate Center
-</section>
+# Do High Heat Index Values Relate to Preterm Birth?
+I'm spending the summer working under a medical geographer and a meteorologist at the Souteast Regional Climate Center on Franklin Street
 
-<section>
+# Picture of Coates
+![Coates Building](task-5-presentation/images/coates.JPG)
+
+# Process
 * I began my work with creating a literature review and summarized peer-reviewed articles that focused on similar issues
   * There have been loose associations correlating high temperatures to preterm birth in cows and humans in India, Australia, and across Europe
-</section>
+* Statistical Data Analysis  
 
-<section>
-### Variables
+# Variables
 * Maximum, minimum, average, and dew point temperature values to calculate heat index
 * Demopgraphic information about the mother
 * Birth data from vital records
 * Access to physician care
-</section>
 
-<section>
-### Data Analysis
+# Data Analysis
 * STATA
-</section>
 
-<section>
-### Results
+# Picture of STATA
+![STATA](task-5-presentation/images/stata.jpg)
+
+# Results
 * Loose correlation so far
 * Will run more tests at the Research Hub
 * Expecting a positive correlation
-</section>
+
+# Final Steps
+* Write an article
+* Hopefully be published
+
